@@ -44,25 +44,7 @@ for t = 599:-1:1             % time during which power was demanded
    s= struct([]);
    s(600).cost_new = cost_min;
    s(600).
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+    
    
    
 for m = length(P_electric):-1:1
